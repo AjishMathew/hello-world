@@ -1,3 +1,3 @@
 # hello-world
-Trying to learn GIT
+Trying to learn GIT now
 editing in main itself
